@@ -1,0 +1,32 @@
+# Loan Approval Prediction Web App
+
+This project presents a machine learning solution for automating loan approval decisions using a Random Forest model trained on 10,000 HELOC applications.
+
+## 🔍 Features
+
+- Data preprocessing, feature engineering, and hyperparameter tuning (GridSearchCV)
+- Streamlit web app for real-time loan approval prediction
+- SHAP-based explanation for model transparency
+- Supports business decision-making with interpretable visual outputs
+
+## 🚀 Live Demo
+
+[Click here to try the app](https://harrison5668-streamlit-heloc-app-mlstreamlit-djgx0u.streamlit.app/)
+
+## 🛠️ Tools Used
+
+- Python, pandas, scikit-learn, Streamlit, SHAP
+- Jupyter Notebook
+- Matplotlib & Seaborn (for visualization)
+
+## 📁 Repository Contents
+
+- `mlproject.ipynb`: Model training and evaluation
+- `mlstreamlit.py`: Streamlit app code
+- `shap_summary_plot.png`: SHAP visualization
+- `requirements.txt`: Python package dependencies
+
+## 📌 Author
+
+GitHub: [Harrison5668](https://github.com/Harrison5668)
+
